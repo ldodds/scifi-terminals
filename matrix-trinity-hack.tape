@@ -1,7 +1,8 @@
 Output gifs/matrix-trinity-hack.gif
+Output gifs/matrix-trinity-hack.mp4
 
-Set FontSize 20
-Set Width 1200
+Set FontSize 12
+Set Width 800
 Set Height 600
 
 Set Theme { "name": "Neo", "black": "#0D0208", "red": "#ef6487", "green": "#5eca89", "yellow": "#fdd877", "blue": "#65aef7", "magenta": "#aa7ff0", "cyan": "#43c1be", "white": "#ffffff", "brightBlack": "#0D0208", "brightRed": "#ef6487", "brightGreen": "#5eca89", "brightYellow": "#fdd877", "brightBlue": "#65aef7", "brightMagenta": "#aa7ff0", "brightCyan": "#43c1be", "brightWhite": "#ffffff", "background": "#000000", "foreground": "#5eca89", "selection": "#5eca89", "cursor": "#5eca89" }
@@ -42,6 +43,6 @@ Sleep 1s
 Type@250ms "disable grid nodes 21 - 48" Enter
 Type@200ms "y" Enter
 
-Sleep 2s
+Sleep 5s
 Ctrl+L
 Enter
