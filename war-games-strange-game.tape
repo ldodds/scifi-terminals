@@ -1,4 +1,5 @@
 Output gifs/war-games-strange-game.gif
+Output gifs/war-games-strange-game.mp4
 
 # Switched to a different font here. The graphics at this point in the 
 # film are from an HP1345A. 
@@ -12,10 +13,10 @@ Output gifs/war-games-strange-game.gif
 # Although the ? and . characters look a bit odd unfortunately.
 #
 Set FontFamily "Vector VCR"
-Set FontSize 24
+Set FontSize 14
 
 Set Width 800
-Set Height 600
+Set Height 400
 
 Set Theme { "name": "WOPR", "black": "#0D0208", "red": "#ef6487", "green": "#5eca89", "yellow": "#fdd877", "blue": "#65aef7", "magenta": "#aa7ff0", "cyan": "#43c1be", "white": "#ffffff", "brightBlack": "#0D0208", "brightRed": "#ef6487", "brightGreen": "#5eca89", "brightYellow": "#fdd877", "brightBlue": "#65aef7", "brightMagenta": "#aa7ff0", "brightCyan": "#43c1be", "brightWhite": "#ffffff", "background": "#000000", "foreground": "#c9ceff", "selection": "#c9ceff", "cursor": "#000000" }
 
@@ -45,4 +46,3 @@ Sleep 2s
 Type "HOW ABOUT A NICE GAME OF CHESS?" Enter  
 
 Sleep 2s
-
