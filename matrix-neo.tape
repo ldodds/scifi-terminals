@@ -1,12 +1,13 @@
 Output gifs/matrix-neo.gif
+Output gifs/matrix-neo.mp4
 
 #Set FontFamily "Courier 10"
-Set FontSize 32
+Set FontSize 24
 
-Set Width 700
+Set Width 800
 Set Height 200
 
-Set Theme { "name": "Neo", "black": "#0D0208", "red": "#ef6487", "green": "#5eca89", "yellow": "#fdd877", "blue": "#65aef7", "magenta": "#aa7ff0", "cyan": "#43c1be", "white": "#ffffff", "brightBlack": "#0D0208", "brightRed": "#ef6487", "brightGreen": "#5eca89", "brightYellow": "#fdd877", "brightBlue": "#65aef7", "brightMagenta": "#aa7ff0", "brightCyan": "#43c1be", "brightWhite": "#ffffff", "background": "#000000", "foreground": "#83b7b0", "selection": "#83b7b0", "cursor": "#0D0208" }
+Set Theme { "name": "Neo", "black": "#0D0208", "red": "#ef6487", "green": "#5eca89", "yellow": "#fdd877", "blue": "#65aef7", "magenta": "#aa7ff0", "cyan": "#43c1be", "white": "#ffffff", "brightBlack": "#0D0208", "brightRed": "#ef6487", "brightGreen": "#5eca89", "brightYellow": "#fdd877", "brightBlue": "#65aef7", "brightMagenta": "#aa7ff0", "brightCyan": "#43c1be", "brightWhite": "#ffffff", "background": "#000000", "foreground": "#83b7b0", "selection": "#000000", "cursor": "#000000" }
 
 # Change the default prompt before we start the script
 Hide
@@ -32,4 +33,4 @@ Type "Knock, knock, Neo."
 Sleep 2s
 Ctrl+U
 	
-Sleep 1s
+Sleep 2s
