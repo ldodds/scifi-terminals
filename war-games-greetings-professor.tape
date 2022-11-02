@@ -1,8 +1,9 @@
 Output gifs/war-games-greetings-professor.gif
+Output gifs/war-games-greetings-professor.mp4
 
 #Set a custom font
 Set FontFamily "WOPR Tweaked"
-Set FontSize 32
+Set FontSize 26
 
 Set Width 1000
 Set Height 800
