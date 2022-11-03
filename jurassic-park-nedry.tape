@@ -1,7 +1,6 @@
 Output gifs/jurassic-park-nedry.gif
 Output gifs/jurassic-park-nedry.mp4
 
-#Set FontFamily "Courier 10"
 Set FontSize 14
 
 Set Width 800
