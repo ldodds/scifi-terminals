@@ -22,6 +22,7 @@ Show
 #Ripley
 Type "REQUEST CLARIFICATION ON"
 Enter
+#TODO "unable to clarify comes in too quick here"
 Type "SCIENCE INABILITY TO NEUTRALIZE ALIEN"
 Enter
 Sleep 3s
@@ -35,8 +36,7 @@ Sleep 1s
 Type "NO FURTHER ENHANCEMENT" Enter
 Type "SPECIAL ORDER 937" Enter
 Type "SCIENCE OFFICER EYES ONLY" Enter
-
-Sleep 2s
+Sleep 3s
 Ctrl+L
 
 #Ripley
@@ -53,9 +53,10 @@ Enter
 
 Type "TO NEW CO-ORDINATES."
 Enter
+Sleep 0.5s
 
 Type "INVESTIGATE LIFE FORM. GATHER SPECIMEN."
-Sleep 1s
+Sleep 1.5s
 Enter
 
 Ctrl+L
@@ -68,6 +69,8 @@ Enter
 
 Type "FOR ANALYSIS."
 Enter
+
+Sleep 0.5s
 
 Type "ALL OTHER CONSIDERATIONS SECONDARY."
 Enter
