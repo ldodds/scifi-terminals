@@ -1,4 +1,4 @@
-#Output gifs/alien-special-order.gif
+Output gifs/alien-special-order.gif
 Output gifs/alien-special-order.mp4
 
 Set FontFamily "City-Light-Light"

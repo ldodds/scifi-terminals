@@ -11,12 +11,14 @@ scifi movie scenes. Such as [Trinity using NMAP in the Matrix](https://www.youtu
 
 This project has some VHS tapes that generate:
 
-* Neo receiving messages from Trinity in the Matrix
-* Trinity hacking using NMAP
-* Hacking WOPR in War Games
-* WOPR realising Thermonuclear war is a mugs game
-* [Dennis Nedry's terminal in Jurassic Park](/gifs/jurassic-park-nedry.gif)git pus
-* Ripley askign about Special Order 937 to MU/TH/R
+* [Neo receiving messages from Trinity in the Matrix](/gifs/matrix-neo.gif)
+* [Trinity hacking using NMAP](/gifs/matrix-trinity-hack.gif)
+* [Hacking WOPR in War Games](/gifs/war-games-greetings-professor.gif)
+* [WOPR realising Thermonuclear war is a mugs game](/gifs/war-games-strange-game.gif)
+* [Dennis Nedry's terminal in Jurassic Park](/gifs/jurassic-park-nedry.gif)
+* [Ripley asking about Special Order 937 to MU/TH/R](/gifs/alient-special-order.gif)
+
+There are both [GIF and MP4 versions in the gifs folder](/gifs)
 
 ## Theming
 
