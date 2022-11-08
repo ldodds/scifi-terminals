@@ -15,7 +15,8 @@ This project has some VHS tapes that generate:
 * Trinity hacking using NMAP
 * Hacking WOPR in War Games
 * WOPR realising Thermonuclear war is a mugs game
-* Dennis Nedry's terminal in Jurassic Park
+* [Dennis Nedry's terminal in Jurassic Park](blob/main/gifs/jurassic-park-nedry.gif)
+* Ripley askign about Special Order 937 to MU/TH/R
 
 ## Theming
 
