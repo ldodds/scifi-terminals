@@ -50,4 +50,4 @@ Report an issue if you like.
 
 ### Licence
 
-All of this is in the public domain. Use as you see fit.
+All of this is in the public domain under a CC0 Waiver. Use as you see fit.
