@@ -44,7 +44,7 @@ If you can suggest better alternatives, then let me know.
 
 ### Bugs
 
-`Sometmes people make mistak`
+`Sometimes people make mistak`
 
 Report an issue if you like.
 
