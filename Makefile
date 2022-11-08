@@ -1,4 +1,4 @@
-OBJECTS = matrix-trinity-hack matrix-neo war-games-strange-game war-games-greetings-professor jurassic-park-nedry
+OBJECTS = matrix-trinity-hack matrix-neo war-games-strange-game war-games-greetings-professor jurassic-park-nedry alien-special-order
 
 all: $(OBJECTS)
 
