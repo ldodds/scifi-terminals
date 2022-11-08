@@ -7,6 +7,7 @@ INTERFACE() {
 SCIENCE() {
  case $1 in
    INABILITY)
+     sleep 0.5;
      echo "";
      echo -e "\e[1m\e[4mUNABLE TO CLARIFY";
      ;;

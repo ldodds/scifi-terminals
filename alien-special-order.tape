@@ -22,7 +22,6 @@ Show
 #Ripley
 Type "REQUEST CLARIFICATION ON"
 Enter
-#TODO "unable to clarify comes in too quick here"
 Type "SCIENCE INABILITY TO NEUTRALIZE ALIEN"
 Enter
 Sleep 3s
