@@ -16,7 +16,7 @@ This project has some VHS tapes that generate:
 * [Hacking WOPR in War Games](/gifs/war-games-greetings-professor.gif)
 * [WOPR realising Thermonuclear war is a mugs game](/gifs/war-games-strange-game.gif)
 * [Dennis Nedry's terminal in Jurassic Park](/gifs/jurassic-park-nedry.gif)
-* [Ripley asking about Special Order 937](/gifs/alient-special-order.gif)
+* [Ripley asking about Special Order 937](/gifs/alien-special-order.gif)
 
 There are both [GIF and MP4 versions in the gifs folder](/gifs)
 
